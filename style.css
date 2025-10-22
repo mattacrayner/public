@@ -19,20 +19,17 @@ test::pseudo-element {}
 
 */
 
-
-* {
+body {
 	color: black;
 	background-color: #f5faff;
 	font-family: Verdana;
 	font-size: 14;
-}
-body {
 	padding-left: 100px;
 	padding-right: 100px;
 }
 
 h1 {
-	font-size: 20;
+	font-size: 30;
 }
 h2 {
 	font-size: 20;
@@ -40,6 +37,9 @@ h2 {
 
 .ms1 {
 	background-color: #0099cc;
+}
+.ms1:hover {
+	background-color: #6600cc;
 }
 
 #rounded {
