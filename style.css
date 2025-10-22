@@ -1,7 +1,10 @@
 body {
 	color: black;
-	background-color: #ffffff;
+	background-color: #f5faff;
 	font-family: Verdana;
 	font-size: 14;
 	padding: 10px;
+}
+.test {
+	color: red;
 }
