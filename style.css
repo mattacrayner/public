@@ -42,10 +42,9 @@ h2 {
 	background-color: #0099cc;
 }
 
-#clickable:hover {
+.clickable:hover {
 	background-color: #6600cc;
 }
-
-#rounded {
+.rounded {
 	border-radius: 5px;
 }
