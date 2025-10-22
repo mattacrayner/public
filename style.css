@@ -1,15 +1,45 @@
 /* https://raw.githack.com/mattacrayner/public/main/style.css */
+	
+/*
 
+ID SELECTOR
+<x id="test"></x>
+#test {}
+
+CLASS SELECTOR
+<x class=""></x>
+.test {}
+
+ELEMENT SELECTOR
+<test></test>
+test {}
+
+PSEUDO ELEMENT SELECTOR
+test::pseudo-element {}
+
+*/
+
+
+* {
+	color: black;
+	background-color: #f5faff;
+	font-family: Verdana;
+	font-size: 14;
+}
 body {
+	padding: 100px;
+}
+h1 {
 	color: black;
 	background-color: #f5faff;
 	font-family: Verdana;
 	font-size: 14;
 	padding: 10px;
 }
-test {
-	color: green;
-}
-.test {
-	color: red;
+h2 {
+	color: black;
+	background-color: #f5faff;
+	font-family: Verdana;
+	font-size: 14;
+	padding: 10px;
 }
