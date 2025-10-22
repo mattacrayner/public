@@ -7,7 +7,7 @@ ID SELECTOR
 #test {}
 
 CLASS SELECTOR
-<x class=""></x>
+<x class="test"></x>
 .test {}
 
 ELEMENT SELECTOR
@@ -42,4 +42,9 @@ h2 {
 	font-family: Verdana;
 	font-size: 14;
 	padding: 10px;
+}
+
+/* Shapes */
+.rounded {
+	border-radius: 5px;
 }
