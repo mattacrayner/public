@@ -45,6 +45,6 @@ h2 {
 }
 
 /* Shapes */
-.rounded {
+#rounded {
 	border-radius: 5px;
 }
