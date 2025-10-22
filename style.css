@@ -31,18 +31,10 @@ body {
 	padding-right: 100px;
 }
 h1 {
-	color: black;
-	background-color: #f5faff;
-	font-family: Verdana;
-	font-size: 14;
-	padding: 10px;
+	font-size: 20;
 }
 h2 {
-	color: black;
-	background-color: #f5faff;
-	font-family: Verdana;
-	font-size: 14;
-	padding: 10px;
+	font-size: 20;
 }
 
 /* Shapes */
