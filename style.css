@@ -5,6 +5,9 @@ body {
 	font-size: 14;
 	padding: 10px;
 }
+test {
+	color: green;
+}
 .test {
 	color: red;
 }
