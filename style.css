@@ -45,6 +45,11 @@ h2 {
 .clickable:hover {
 	background-color: #6600cc;
 }
+
 .rounded {
 	border-radius: 5px;
+}
+
+.test {
+	font-size: 10;
 }
