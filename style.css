@@ -51,3 +51,8 @@ h2 {
 	border-radius: 5px;
 	border: 1px black;
 }
+
+code {
+	font-family: Calibri Light;
+	border: 1px black;
+}
