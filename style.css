@@ -24,32 +24,30 @@ test::pseudo-element {}
 
 body {
 	color: black;
-	background-color: #f5faff;
-	font-family: Verdana;
+	background-color: #e6f2ff;
+	font-family: Calibri Light;
 	font-size: 14;
 	padding-left: 100px;
 	padding-right: 100px;
 }
 
 h1 {
-	font-size: 30;
+	font-size: 22;
 }
+
 h2 {
-	font-size: 20;
+	font-size: 18;
 }
 
 .ms1 {
-	background-color: #0099cc;
+	background-color: #e6f2ff;
 }
 
 .clickable:hover {
-	background-color: #6600cc;
+	background-color: #b3d7ff;
 }
 
 .rounded {
 	border-radius: 5px;
-}
-
-.test {
-	font-size: 10;
+	border: 1px black;
 }
